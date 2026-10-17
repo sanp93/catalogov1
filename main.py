@@ -140,7 +140,7 @@ st.markdown("""
     font-size:17px;
     line-height:1.3;">
 
-<p><strong>Bem-vindo(a) ao Catálogo de Sites e Ferramentas da Equipe Técnica TRIEduc!</strong></p>
+<p><strong>Bem-vindo(a) ao Catálogo de Sites e Ferramentas!</strong></p>
 
 <p>
 Este espaço reúne recursos que podem auxiliar na elaboração de itens,
